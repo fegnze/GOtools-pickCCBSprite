@@ -1,0 +1,109 @@
+读取配置文件...
+resDir:/Users/zhaoheng/Documents/go/GOtools-pickCCBSprite/res/Resources ccbListFile:/Users/zhaoheng/Documents/go/GOtools-pickCCBSprite/ccbs.json
+读取CCB列表文件...
+查找ccb...
+
+查找到ccb：/Users/zhaoheng/Documents/go/GOtools-pickCCBSprite/res/Resources/layout/interface/gmshuoming.ccb
+开始处理
+匹配到图片-layout/layoutpic/d_f_1333.png
+匹配到图片-layout/layoutpic/d_f_143.png
+匹配到图片-layout/layoutpic/d_f_1634.png
+[ERROR]:读取png文件失败 open /Users/zhaoheng/Documents/go/GOtools-pickCCBSprite/res/Resources/layout/layoutpic/d_f_1634.png: no such file or directory
+匹配到图片-layout/layoutpic/d_f_1662.png
+[ERROR]:读取png文件失败 open /Users/zhaoheng/Documents/go/GOtools-pickCCBSprite/res/Resources/layout/layoutpic/d_f_1662.png: no such file or directory
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/d_f_145.png
+处理完毕
+
+查找到ccb：/Users/zhaoheng/Documents/go/GOtools-pickCCBSprite/res/Resources/layout/interface/gmjiemian.ccb
+开始处理
+匹配到图片-layout/layoutpic/c_f_061.png
+匹配到图片-layout/layoutpic/d_f_143.png
+匹配到图片-layout/layoutpic/d_f_1326.png
+匹配到图片-layout/layoutpic/d_f_257.png
+匹配到图片-layout/layoutpic/d_f_1349.png
+匹配到图片-layout/layoutpic/d_f_097.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/d_f_452.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/d_f_452.png
+匹配到图片-layout/layoutpic/d_f_1411.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/d_f_444.png
+匹配到图片-layout/layoutpic/d_f_1338.png
+匹配到图片-layout/layoutpic/d_f_1656.png
+[ERROR]:读取png文件失败 open /Users/zhaoheng/Documents/go/GOtools-pickCCBSprite/res/Resources/layout/layoutpic/d_f_1656.png: no such file or directory
+匹配到图片-layout/layoutpic/c_f_062.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/d_f_444.png
+匹配到图片-layout/layoutpic/d_f_1338.png
+匹配到图片-layout/layoutpic/d_f_1650.png
+[ERROR]:读取png文件失败 open /Users/zhaoheng/Documents/go/GOtools-pickCCBSprite/res/Resources/layout/layoutpic/d_f_1650.png: no such file or directory
+匹配到图片-layout/layoutpic/c_f_062.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/d_f_444.png
+匹配到图片-layout/layoutpic/d_f_1338.png
+匹配到图片-layout/layoutpic/d_f_1651.png
+[ERROR]:读取png文件失败 open /Users/zhaoheng/Documents/go/GOtools-pickCCBSprite/res/Resources/layout/layoutpic/d_f_1651.png: no such file or directory
+匹配到图片-layout/layoutpic/c_f_062.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/d_f_444.png
+匹配到图片-layout/layoutpic/d_f_1338.png
+匹配到图片-layout/layoutpic/d_f_1652.png
+[ERROR]:读取png文件失败 open /Users/zhaoheng/Documents/go/GOtools-pickCCBSprite/res/Resources/layout/layoutpic/d_f_1652.png: no such file or directory
+匹配到图片-layout/layoutpic/c_f_062.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/d_f_444.png
+匹配到图片-layout/layoutpic/d_f_1338.png
+匹配到图片-layout/layoutpic/d_f_1653.png
+[ERROR]:读取png文件失败 open /Users/zhaoheng/Documents/go/GOtools-pickCCBSprite/res/Resources/layout/layoutpic/d_f_1653.png: no such file or directory
+匹配到图片-layout/layoutpic/c_f_062.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/d_f_444.png
+匹配到图片-layout/layoutpic/d_f_1338.png
+匹配到图片-layout/layoutpic/d_f_1654.png
+[ERROR]:读取png文件失败 open /Users/zhaoheng/Documents/go/GOtools-pickCCBSprite/res/Resources/layout/layoutpic/d_f_1654.png: no such file or directory
+匹配到图片-layout/layoutpic/c_f_062.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/d_f_444.png
+匹配到图片-layout/layoutpic/d_f_1338.png
+匹配到图片-layout/layoutpic/d_f_1655.png
+[ERROR]:读取png文件失败 open /Users/zhaoheng/Documents/go/GOtools-pickCCBSprite/res/Resources/layout/layoutpic/d_f_1655.png: no such file or directory
+匹配到图片-layout/layoutpic/c_f_062.png
+处理完毕
+
+查找到ccb：/Users/zhaoheng/Documents/go/GOtools-pickCCBSprite/res/Resources/layout/common/gmjiemian_btn01.ccb
+开始处理
+匹配到图片-layout/layoutpic/c_f_070.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/c_f_028.png
+匹配到图片-layout/layoutpic/c_f_027.png
+匹配到图片-sprit/item/f_h_001_01.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/c_f_007.png
+匹配到图片-layout/layoutpic/d_f_452.png
+匹配到图片-layout/layoutpic/d_f_002.png
+处理完毕
