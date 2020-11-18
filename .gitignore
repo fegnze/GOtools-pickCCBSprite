@@ -1,17 +1,3 @@
-# Folders
-_obj
-_test
-
-*.cgo1.go
-*.cgo2.c
-_cgo_defun.c
-_cgo_gotypes.go
-_cgo_export.*
-
-_testmain.go
-
-*.exe
-
 .idea/
 *.iml
 res/Resources
